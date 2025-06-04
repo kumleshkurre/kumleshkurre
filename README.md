@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm KUMLESH KURRE</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=000901&border-color=b80505&vCenter=true&lines=+I+am+a+passionate+learner+;Web+Developer;IT+Support;Network+Engineer;Cybersecurity+Anyalist;Learning+new+skills+everyday!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=000901&center=true&vCenter=true&width=435&lines=I+am+a+passionate+learner;Web+Developer;IT+Support;Network+Engineer;Cybersecurity+Analyst;Learning+new+skills+everyday!" alt="Typing SVG" />
+</a>
+
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
