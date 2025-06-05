@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Packet Tracer,IT Support,Network Monitoring**
 
-- 📫 How to reach me **Kumleshkurre77@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
