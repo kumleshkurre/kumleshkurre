@@ -8,7 +8,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **CCNA Network Engineer,IT Support,Cybirsecurity Analyst,SOC Analyst**
+
 
 - 💬 Ask me about **Packet Tracer,IT Support,Network Monitoring**
 
