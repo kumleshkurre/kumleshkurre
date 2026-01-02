@@ -1,4 +1,4 @@
-![logo](https://github.com/kumleshkurre/kumleshkurre/blob/main/A%20passionate%20It%20support%20(1).png)
+![logo](https://github.com/kumleshkurre/kumleshkurre/blob/main/Blue%20Futuristic%20Artificial%20Intelligence%20Presentation.png)
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=435&lines=I+am+a+passionate+learner;Web+Developer;IT+Support;Network+Engineer;Cybersecurity+Analyst;Learning+new+skills+everyday!" alt="Typing SVG" />
 </a>
