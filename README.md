@@ -1,4 +1,7 @@
-![logo](https://github.com/kumleshkurre/kumleshkurre/blob/main/A%20passionate%20It%20support.png)
+<div style="text-align: center;">
+  <h1>Hi 😊👋 ,I’m Kumlesh Kurre</h1>
+  </div>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=435&lines=I+am+a+passionate+learner;Web+Developer;IT+Support;Network+Engineer;Cybersecurity+Analyst;Learning+new+skills+everyday!" alt="Typing SVG" />
 </a>
