@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <h1>Hi 😊👋 ,I’m Kumlesh Kurre</h1>
+  <h1>Hi 😊👋 I’am Kumlesh Kurre</h1>
   </div>
 
 <a href="https://git.io/typing-svg">
