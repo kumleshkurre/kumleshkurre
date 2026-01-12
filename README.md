@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=435&lines=I+am+a+passionate+learner;IT+Support+Engineer;Network+Engineer;Cybersecurity+Analyst;Web+Developer;Learning+new+skills+everyday!" alt="Typing SVG" />
 </a>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+- 💬 I am a motivated IT Support / Network Support professional with hands-on experience in CCNA networking, Windows Server & Active Directory, hardware troubleshooting (Laptop/Desktop/Printer), and AWS & Linux basics. I enjoy solving real-world IT problems and documenting practical solutions.
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-
-- 💬 Ask me about **Packet Tracer,IT Support,Network Monitoring**
 
 
 
