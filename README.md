@@ -36,9 +36,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+ 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -60,10 +58,7 @@
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
     <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="cisco packet tracer" width="40" height="40"/>
   </a>
-  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
-    <img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" alt="cisco packet tracer" width="40" height="40"/>
-  </a>
-</p>
+  </p>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
